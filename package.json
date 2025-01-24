@@ -1,22 +1,12 @@
 {
-  "name": "mongoose-practice",
+  "name": "zen-mentor-backend-main",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
+  "description": "WEB DEVELOPER TASK Mentor and Student Assigning with Database",
   "license": "ISC",
-  "dependencies": {
-    "connect": "^3.7.0",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "mongoose": "^8.5.4"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4"
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+   "scripts": {
+    "start": "node index.js"
   }
 }
