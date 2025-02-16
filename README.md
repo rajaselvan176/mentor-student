@@ -24,7 +24,7 @@ Agenda
 
 --------------------------------------------------------------------------------------------------
 
-Base URL https://zen-assign-mentors.herokuapp.com
+Base URL https://mentor-student-4.onrender.com
 
 # Mentor Api's
 
