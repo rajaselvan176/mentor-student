@@ -32,7 +32,7 @@ Base URL https://mentor-student-4.onrender.com
 
 <pre>POST         <a href="https://mentor-student-4.onrender.com/Mentors">/Mentors </a></pre>
 
-<pre>GET by ID    <a href="https://mentor-student-4.onrender.com/Mentors/get-mentor/60e7f4acd5ff5342a06652dd">/Mentors/get-mentor/:ID </a></pre>
+<pre>GET by ID    <a href="https://mentor-student-4.onrender.com/Mentors/get-mentor/67b1c4bb93a9ec644097fd93">/Mentors/get-mentor/:ID </a></pre>
 
 # Student Api's
 
