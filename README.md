@@ -46,7 +46,7 @@ Base URL https://mentor-student-4.onrender.com
 
 <b>To assign or change Mentor for student</b>
 
-<pre>PATCH        <a href="https://mentor-student-4.onrender.com/Students/assign-mentor/67b1c4bb93a9ec644097fd93">/Students/assign-mentor/:student-id</a></pre>
+<pre>PATCH        <a href="https://mentor-student-4.onrender.com/Students/assign-mentor/67b1d139beb99f2a6328bed1">/Students/assign-mentor/:student-id</a></pre>
 
 <b> To assign mentors for multiple Students </b>
 
