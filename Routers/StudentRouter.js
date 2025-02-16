@@ -4,19 +4,14 @@ const Student = require('../Models/StudentModel');
 
 const studentRouter = express.Router();
 
-studentRouter.get('/', async (req,res) => {
-    try{
-        const students = await Student.find({}).populate('Mentor').exec((err,result) => {
-            if(!err){
-                res.json(result)
-            }
-        });
-        res.send(students);
-    }catch(err){
-        res.status(400).send(err);
+studentRouter.get('/', async (req, res) => {
+    try {
+        const students = await Student.find({}).populate('mentor').exec();  // Fix: 'mentor' field should be lowercase
+        res.json(students);  // Send the populated student data as the response
+    } catch (err) {
+        res.status(400).send(err);  // Handle errors and send response with status 400
     }
-    
-})
+});
 
 studentRouter.post('/',async (req,res) => {
     const addStudent = new Student({
