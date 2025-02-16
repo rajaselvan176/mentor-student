@@ -11,7 +11,7 @@ studentRouter.get('/', async (req,res) => {
                 res.json(result)
             }
         });
-        //res.send(students);
+        res.send(students);
     }catch(err){
         res.status(400).send(err);
     }
