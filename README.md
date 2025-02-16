@@ -64,7 +64,7 @@ Base URL https://mentor-student-4.onrender.com
 
 <b> To get all students of particular Mentor
 
-<pre>GET          <a href="https://mentor-student-4.onrender.com/Students/mentor-students/60e7f4acd5ff5342a06652dd">/Students/mentor-students/:mentor-id </a></pre>
+<pre>GET          <a href="https://mentor-student-4.onrender.com/Students/mentor-students/67b1c4bb93a9ec644097fd93">/Students/mentor-students/:mentor-id </a></pre>
  
 
 
