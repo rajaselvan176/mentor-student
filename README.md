@@ -55,7 +55,7 @@ Base URL https://mentor-student-4.onrender.com
 <b> To Assign or Change Mentor for particular student </b>
   > Pass Mentor ID in request Body
 
-<pre>PATCH        <a href="https://mentor-student-4.onrender.com/Students/assign-mentor/67b1c8dda089112c6aa6d134">/Students/assign-mentor/:student-id</a> </pre>
+<pre>PATCH        <a href="https://mentor-student-4.onrender.com/Students/assign-mentor/67b1c9bba089112c6aa6d138">/Students/assign-mentor/:student-id</a> </pre>
 
 <b> To Assign mentor for multiple students </b>
   > Pass Mentor ID and Student ID as list in body
@@ -64,7 +64,7 @@ Base URL https://mentor-student-4.onrender.com
 
 <b> To get all students of particular Mentor
 
-<pre>GET          <a href="https://mentor-student-4.onrender.com/Students/mentor-students/67b1c4bb93a9ec644097fd93">/Students/mentor-students/:mentor-id </a></pre>
+<pre>GET          <a href="https://mentor-student-4.onrender.com/Students/mentor-students/67b1c9bba089112c6aa6d138">/Students/mentor-students/:mentor-id </a></pre>
  
 
 
